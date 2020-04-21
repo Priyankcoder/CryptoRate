@@ -3,7 +3,7 @@ It is a website which show dynamic pricing with the help of Coinbase API.
 
 #### Overview
 
-This web application creates an online catalog for a small local library, where users can browse available books and manage their accounts.
+This web application creates an online catalog for crypto-currency, where user can browse the prices of various crypto-currency present in the market.
 The CryptoRate website is built on a Python and a web framework called Django.
  
 #### **The main features that have currently been implemented are:**
